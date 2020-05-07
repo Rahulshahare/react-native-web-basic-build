@@ -7,7 +7,7 @@ Using [React Native Web](https://github.com/necolas/react-native-web) it is poss
 
 Basically the setup is set in such a way that the app will have two entry points, one for React and anather for React-Native. Writing the code once and build for both is a idea, and the React-Native-Web is the the main source of magic in this app. This library will convert our react-native components into web elements.
 
-There are bunch of tool with autoConfiguration like [expo](https://expo.io)
+There are bunch of tool with autoConfiguration like [expo](https://expo.io), Expo is a framework and a platform for universal React applications. It is simple to setup, optimizes the web build, and provides dozens of additional cross-platform APIs.
  
 
 Below is a Screenshot of Final Build of Web App.
